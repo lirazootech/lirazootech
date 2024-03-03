@@ -3,19 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@lirazootech - GitHub Profile</title>
-    <style>
-        /* Estilos CSS aqui */
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
-            padding: 20px;
-        }
-
-        p {
-            text-indent: 20px;
-        }
-    </style>
 </head>
 <body>
     <header>
