@@ -26,7 +26,7 @@
 ---
 <p align="center"><img align="center" loading="lazy" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b7611bodrxeehuplu1x49i1rjf31vq6okb7zpk3de969i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="180" height="180em"/> <img loading="lazy" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirazootech&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 <a href="https://github.com/lirazootech">  
-<p align="center"><img loading="lazy" width="250" height="180em" src="https://github-readme-stats.vercel.app/api?username=lirazootech&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/> <img loading="lazy" width="250" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=lirazootech&theme=vision-friendly-dark&hide_border=false"/>  
+<p align="center"><img loading="lazy" width="375" height="180em" src="https://github-readme-stats.vercel.app/api?username=lirazootech&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/> <img loading="lazy" width="375" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=lirazootech&theme=vision-friendly-dark&hide_border=false"/>  
 <p align="center"><img loading="lazy" align="center" height="180em" src="https://github-contributor-stats.vercel.app/api?username=lirazootech&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true"/>
 </div>
 
