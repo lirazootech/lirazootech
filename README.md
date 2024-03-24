@@ -19,7 +19,7 @@
 </div>
 
 ## Sobre mim:
-*Com muita determinação e entusiasmo estou imersa no mundo do desenvolvimento back-end e da análise de dados. Cada nova linguagem e tecnologia que aprendo é como um encantamento mágico, elevando meu conhecimento e habilidades a novos níveis..*
+*Com muita determinação e entusiasmo estou imersa no mundo do desenvolvimento back-end e da análise de dados. Cada nova linguagem e tecnologia que aprendo é como um encantamento mágico, elevando meu conhecimento e habilidades a novos níveis...*
 *Tenho como objetivo aprimorar minhas habilidades e expandir meu repertório, assim como Hermione se dedica a dominar cada novo feitiço!*
 
 ## Estou aprendendo: <img src="https://media.giphy.com/media/WT9chy8AxXeexEUjWR/giphy.gif?cid=790b7611wuw0t9c5kcff08xqfazb0igzenxij44wy86sb2rj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="85" height="85"/>
@@ -29,9 +29,8 @@
           
 <div>
 <a href="https://github.com/lirazootech">
-<img loading="lazy" align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirazootech&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=lirazootech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirazootech&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lirazootech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
   </body>
 </html>
