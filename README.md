@@ -22,7 +22,7 @@
 *Com muita determinação e entusiasmo estou imersa no mundo do desenvolvimento back-end e da análise de dados. Cada nova linguagem e tecnologia que aprendo é como um encantamento mágico, elevando meu conhecimento e habilidades a novos níveis..*
 *Tenho como objetivo aprimorar minhas habilidades e expandir meu repertório, assim como Hermione se dedica a dominar cada novo feitiço!*
 
-## Estou aprendendo
+## Estou aprendendo: <img src="https://media.giphy.com/media/WT9chy8AxXeexEUjWR/giphy.gif?cid=790b7611wuw0t9c5kcff08xqfazb0igzenxij44wy86sb2rj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="85" height="85"/>
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
@@ -35,7 +35,3 @@
   
   </body>
 </html>
-
-
-
-
