@@ -11,8 +11,10 @@
 *Eu sou a lirazootech e é uma honra te ter por aqui, sou Zootecnista e futura Cientista da Computação! Pois é, uma cientista aprendendo o universo da 'tecnomagia', uma ferramenta poderosa que abre um universo de possibilidades. E eu me sinto mais feliz do que Harry Potter em uma loja de varinhas mágicas.*
 ## Como me encontrar na web:
 <div>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thayslirav/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lirazootech/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lirazootech/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@lirazootech) 
+  
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lirazootech@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://linkedin.com/in/https://www.linkedin.com/in/lirazootech/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://instagram.com/https://www.instagram.com/lirazootech/)
 
 ## Sobre mim:
 *Com muita determinação e entusiasmo estou imersa no mundo do desenvolvimento back-end e da análise de dados. Cada nova linguagem e tecnologia que aprendo é como um encantamento mágico, elevando meu conhecimento e habilidades a novos níveis...*
