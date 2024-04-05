@@ -31,6 +31,12 @@
 <a href="https://github.com/lirazootech">  
 <p align="center"><img loading="lazy" width="375" height="180em" src="https://github-readme-stats.vercel.app/api?username=lirazootech&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"/> <img loading="lazy" width="375" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=lirazootech&theme=vision-friendly-dark&hide_border=false"/>
 <p align="center"><img loading="lazy" align="center" height="180em" src="https://github-contributor-stats.vercel.app/api?username=lirazootech&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true"/>
-</div>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lirazootech/lirazootech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lirazootech/lirazootech/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lirazootech/lirazootech/output/github-contribution-grid-snake.svg">
+</picture>
+
   </body>
 </html>
