@@ -51,5 +51,7 @@
 
 <p align="center"/><img loading="lazy" align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lirazootech&theme=vision-friendly-dark&hide_border=false"/>
 
-<div style="text-align:center;"><p align="center">Feito com 🧡 por</p> <img src="./footer_32x32.png" alt="Logo pessoal de Thays Lira">
+<div style="text-align:center;">
+  <p>Feito com 🧡 por <img src="./footer_32x32.png" alt="Logo pessoal de Thays Lira"./>
+  </p>
 </div>
