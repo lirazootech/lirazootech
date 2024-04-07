@@ -6,7 +6,9 @@
 *Eu me chamo Thays Lira e é uma honra te ter por aqui, sou zootecnista e futura Analista e Desenvolvedora de Sistemas! Pois é, uma cientista animal aprendendo o universo da 'tecnomagia', ferramenta poderosa que me revela um universo de possibilidades.*
 #### **Contate-me:**
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFA500&color:FF0)](mailto:lirazootech@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFA500&color:FF0)](https://linkedin.com/in/lirazootech/) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFA500&color:FF0)](https://instagram.com/https://www.instagram.com/lirazootech)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFA500&color:FF0)](https://linkedin.com/in/lirazootech/) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFA500&color:FF0)](https://www.instagram.com/lirazootech)
+
+[![Portifólio](https://img.shields.io/badge/-Portifólio-000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=FFA500&color:FF0)](https://lirazootech.vercel.app/)
 
 ## Sobre mim: 
 
