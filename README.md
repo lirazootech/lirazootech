@@ -32,12 +32,7 @@
 
 <p align="center"/><img loading="lazy" align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lirazootech&theme=vision-friendly-dark&hide_border=false"/>
 
-<div style="text-align: center;">
-  <p align="center">
-    Todos os direitos reservados © 2024. Desenvolvido com 🧡 por
-    <a href="https://lirazootech.vercel.app/">
-      <img src="./footer_32x32.png" alt="Logo pessoal de Thays Lira" style="margin-left: 8px;"/>
-    </a>
+<div style="display: flex; align-items: center; justify-content: center; text-decoration: none;">
+  <p style="text-align: center;">Copyright © 2024. Desenvolvido com 🧡 por <a  href="https://lirazootech.vercel.app/">Thays Lira</a>.
   </p>
 </div>
-
