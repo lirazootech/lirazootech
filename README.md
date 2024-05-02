@@ -3,7 +3,7 @@
 ## *Sejam todos bem vindos ao meu perfil [@lirazootech](https://github.dev/lirazootech/)!* <img alt="Duck say, hi!" title="Propriedade title" src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif?cid=790b7611w8oxncd2arwp4amzu8d71w5yifi6rexaqo890hg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="210" height="210"/>
 
 
-*Eu me chamo Thays Lira e é uma honra te ter por aqui, sou zootecnista e futura Analista e Desenvolvedora de Sistemas! Pois é, uma cientista animal aprendendo o universo da 'tecnomagia', ferramenta poderosa que me revela um universo de possibilidades.*
+*Eu me chamo Thays Lira e é uma honra te ter por aqui, sou zootecnista e futura Analista e Desenvolvedora de Sistemas! Pois é, uma cientista animal aprendendo o universo da 'techmagia', ferramenta poderosa que me revela um universo de possibilidades.*
 
 ### *Contate-me:*
 
