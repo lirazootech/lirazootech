@@ -33,9 +33,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lirazootech/lirazootech/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center"/><img loading="lazy" align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lirazootech&theme=vision-friendly-dark&hide_border=false"/>
-
-<div style="display: flex; align-items: center; justify-content: center; text-decoration: none;">
   <p style="text-align: center;">Copyright © 2024. Desenvolvido com 🧡 por <a  href="https://lirazootech.vercel.app/">Thays Lira</a>.
   </p>
-</div>
+
