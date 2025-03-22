@@ -26,6 +26,7 @@
 
 ## ***GitHub Stats:***
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lirazootech&show_icons=true&theme=radical)
 <img align="right" loading="lazy" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=790b7611bodrxeehuplu1x49i1rjf31vq6okb7zpk3de969i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300" height="215em"/> <img loading="lazy" align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lirazootech&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 <picture>
