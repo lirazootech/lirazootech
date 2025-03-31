@@ -1,9 +1,9 @@
-# **Olá, mundo mágico do Github!**
+# **Bem-vindo ao meu portfólio no Github!**
 
 ## *Sejam todos bem vindos ao meu perfil [@lirazootech](https://github.dev/lirazootech/)!* <img alt="Duck say, hi!" title="Propriedade title" src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif?cid=790b7611w8oxncd2arwp4amzu8d71w5yifi6rexaqo890hg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="210" height="210"/>
 
 
-*Eu me chamo Thays Lira e é uma honra te ter por aqui, sou zootecnista e futura Analista e Desenvolvedora de Sistemas! Pois é, uma cientista animal aprendendo o universo da 'techmagia', ferramenta poderosa que me revela um universo de possibilidades.*
+*Olá! Meu nome é Thays Lira, uma entusiasta em tecnologia e futura Analista e Desenvolvedora de Sistemas, com formação em Zootecnia. Aqui você encontra um pouco do meu trabalho, projetos e evolução nesse universo fascinante de tecnologia!*
 
 ### *Contate-me:*
 
@@ -13,11 +13,13 @@
 
 ## ***Sobre mim:*** 
 
-*📚 Atualmente estudo Análise e Desenvolvimento de Sistemas na UNESA e me dedico a aprender Java, C# e Python com foco em desenvolvimento back-end e Análise de Dados. Também busco me aprimorar na área de front-end treinando minha criatividade usando HTML, CSS e JavaScript.*
+*📚  Estudante de Análise e Desenvolvimento de Sistemas na UNESA.
 
-*📈 A cada nova linguagem e tecnologia que aprendo é como um encantamento mágico, elevando meu conhecimento e habilidades a novos níveis... Tenho como objetivo aprimorar minhas habilidades e expandir meu repertório, assim como Hermione se dedica a dominar cada novo feitiço!*
+💻 Apaixonada por desenvolvimento back-end (C#🎓, Python) e pela magia da Análise de Dados.*
 
-*🌱Aprender é a minha poção mágica favorita e estou sempre pronta para um novo desafio. Então, vamos juntos nessa jornada de aprendizado contínuo, descobrir o que o futuro nos reserva! 🚀*
+*🎨 Explorando minha criatividade com desenvolvimento front-end, aprendendo HTML, CSS e JavaScript.*
+
+*🚀 Dedicação contínua ao aprendizado e aperfeiçoamento técnico, sempre buscando novos desafios.*
 
 ## ***Ferramentas e Habilidades que estou aprendendo:*** <img alt="Hermione estudando" title="Propriedade title" src="https://media.giphy.com/media/WT9chy8AxXeexEUjWR/giphy.gif?cid=790b7611wuw0t9c5kcff08xqfazb0igzenxij44wy86sb2rj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="70"/>
 
