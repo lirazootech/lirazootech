@@ -1,4 +1,4 @@
-# **Bem-vindo ao meu portfólio no Github! [@lirazootech](https://github.dev/lirazootech/)!** <img alt="Duck say, hi!" title="Propriedade title" src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif?cid=790b7611w8oxncd2arwp4amzu8d71w5yifi6rexaqo890hg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="210" height="210"/>
+# **Bem-vindo ao meu portfólio no Github!** <img alt="Duck say, hi!" title="Propriedade title" src="https://media.giphy.com/media/26gslMAdctNhu6YnK/giphy.gif?cid=790b7611w8oxncd2arwp4amzu8d71w5yifi6rexaqo890hg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="210" height="210"/>
 
 
 *Olá! Meu nome é Thays Lira, uma entusiasta em tecnologia e futura Analista e Desenvolvedora de Sistemas, com formação em Zootecnia. Aqui você encontra um pouco do meu trabalho, projetos e evolução nesse universo fascinante de tecnologia!*
